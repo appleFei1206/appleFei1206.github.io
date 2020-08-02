@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 烧饼铺</title>
+    <link>https://applefei1206.github.io/categories/</link>
+    <description>Recent content in Categories on 烧饼铺</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://applefei1206.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>POI</title>
+      <link>https://applefei1206.github.io/categories/poi/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://applefei1206.github.io/categories/poi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>slash</title>
+      <link>https://applefei1206.github.io/categories/slash/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://applefei1206.github.io/categories/slash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>同人</title>
+      <link>https://applefei1206.github.io/categories/%E5%90%8C%E4%BA%BA/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://applefei1206.github.io/categories/%E5%90%8C%E4%BA%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>油画</title>
+      <link>https://applefei1206.github.io/categories/%E6%B2%B9%E7%94%BB/</link>
+      <pubDate>Fri, 01 May 2020 04:39:59 +0000</pubDate>
+      
+      <guid>https://applefei1206.github.io/categories/%E6%B2%B9%E7%94%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>肖像</title>
+      <link>https://applefei1206.github.io/categories/%E8%82%96%E5%83%8F/</link>
+      <pubDate>Fri, 01 May 2020 04:39:59 +0000</pubDate>
+      
+      <guid>https://applefei1206.github.io/categories/%E8%82%96%E5%83%8F/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
